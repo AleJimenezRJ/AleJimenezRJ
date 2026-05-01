@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Computer Engineering student at **Universidad de Costa Rica** with emphasis in **Information Technologies**, currently working as a **Systems Developer Engineer Intern at Amazon**. Passionate about software development and cloud technologies.
+Computer Engineering student at Universidad de Costa Rica with emphasis in Information Technologies, currently working as a Systems Developer Engineer Intern at Amazon. Passionate about software development and cloud technologies.
 
 🎓 About to graduate from UCR  
 💼 SysDev Intern @ Amazon  
