@@ -14,6 +14,7 @@ Computer Engineering student at **Universidad de Costa Rica** with emphasis in *
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45" />
@@ -31,6 +32,7 @@ Computer Engineering student at **Universidad de Costa Rica** with emphasis in *
 </p>
 
 ### DevOps & Cloud
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
@@ -40,6 +42,7 @@ Computer Engineering student at **Universidad de Costa Rica** with emphasis in *
 </p>
 
 ### Databases
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" width="45" height="45" />
@@ -48,6 +51,7 @@ Computer Engineering student at **Universidad de Costa Rica** with emphasis in *
 </p>
 
 ### Development Tools
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="45" height="45" />
@@ -55,12 +59,6 @@ Computer Engineering student at **Universidad de Costa Rica** with emphasis in *
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="LaTeX" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="45" height="45" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=AleJimenezRJ&theme=dark&hide_border=false)
 
 ---
 
